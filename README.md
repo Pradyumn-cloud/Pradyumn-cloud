@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pradyumn-cloud
 - 👀 I’m interested in currently open-source project
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ML
 - 📫 How to reach me: pradyumnprasad.567@gmail.com
 - 😄 Pronouns: Male
 - ⚡ Fun fact: Studying in IIITV
